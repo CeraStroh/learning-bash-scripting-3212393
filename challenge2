@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# A fortune-telling game
+
+echo "Look in /Solutions/fortune"
